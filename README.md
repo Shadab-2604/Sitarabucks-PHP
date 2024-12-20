@@ -117,7 +117,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 _Add screenshots of your project here to help others visualize the app!_
 
----
-
-Feel free to suggest changes or enhancements by opening an issue on this repository. Happy coding!
-
